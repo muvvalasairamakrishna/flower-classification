@@ -1,5 +1,5 @@
 # flower-classification
-This is a Machine Learning model built using Tensorflow frame work.
+This is a Machine Learning model built using TensorFlow frame work.
 Convolutional Neural Network(CNN) algorithm is used for image classification.
 CNN is built using Keras.
 Here it takes an iput of image from local library or Webcam.
